@@ -2,7 +2,7 @@
 """
 Created on Tue May  6 12:34:51 2025
 
-@author: Samuel Kakraba 
+@author: Samuel Kakraba and Edem Netsey
 """
 
 ############ Python code to generate the dendrogram
